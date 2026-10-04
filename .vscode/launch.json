@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Singleinheritance",
+            "request": "launch",
+            "mainClass": "Singleinheritance",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "SingleInheritance",
+            "request": "launch",
+            "mainClass": "Exercise_4.SingleInheritance",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "SingleInheritance",
+            "request": "launch",
+            "mainClass": "SingleInheritance",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorOverloadingDemo",
+            "request": "launch",
+            "mainClass": "ConstructorOverloadingDemo",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "TestStudent",
+            "request": "launch",
+            "mainClass": "TestStudent",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "TestMethodOverloading",
+            "request": "launch",
+            "mainClass": "TestMethodOverloading",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "BasicDemo",
+            "request": "launch",
+            "mainClass": "BasicDemo",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "TestStudents",
+            "request": "launch",
+            "mainClass": "TestStudents",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "Task1",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "JAVA.Task1",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "BasicDemo",
+            "request": "launch",
+            "mainClass": "JAVA.BasicDemo",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortDemo",
+            "request": "launch",
+            "mainClass": "JAVA.Task2.BubbleSortDemo",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "DefaultValuesDemo",
+            "request": "launch",
+            "mainClass": "JAVA.Task1.DefaultValuesDemo",
+            "projectName": "25AKA05105_7c4dbd86"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
